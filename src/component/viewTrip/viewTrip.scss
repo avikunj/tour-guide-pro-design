@@ -1,0 +1,70 @@
+.topviewimage{
+    border-radius: 5px;
+}
+.card h2{
+   font-size: 30px;
+   font-weight: 700;
+   text-align: left;
+width: 50%;
+margin-top: 3%;
+}
+.card h1{
+    text-align: end;
+    margin-top: -19%;
+    font-size: xx-large;
+}
+.cardviewtrip{
+    box-shadow: 0  8px 8px rgba(0,0,0,0.2);
+    transition: 0.9s;
+    background-color:white;
+    
+position: absolute;
+margin-top: -20%;
+
+border-radius: 50px;
+}
+.cardbodyviewtrip{
+margin: 40px;
+}
+.viewtrip{
+    background-color: black;
+
+}
+.address{
+    text-align: start;
+    margin-top: -23%;
+    margin-left: 65%;
+    color: gray;
+    font-size: 20px;
+    font-weight: lighter;
+    width: 50%;
+}
+.onmap{
+    background-color: rgb(230, 154, 230);
+    width: 30%;
+    font-weight: 400;
+    font-size: x-large;
+    padding: 4%;
+    border-radius: 20px;
+    color:white;
+}
+.cardviewtrip p{
+    text-align: justify;
+}
+.bottom{
+    background-color: black;
+    color: white;
+    padding-top: 70%;
+    text-align: center;
+    padding-bottom: 1%;
+}
+.bottom h4{
+//  padding: 1px;
+font-weight: lighter;
+font-size: 36px;
+
+}
+.icon{
+    // padding: 3px;
+    display:inline-flex;
+}
